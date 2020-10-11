@@ -33,4 +33,5 @@ Here's an example of a heatmap I did of Michigan showing the male to female rati
 
 Finding:
 - More females are in the larger cities than smaller cities
+
 ![Image of heatmap](maletofemale.png)
