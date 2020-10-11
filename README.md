@@ -8,7 +8,7 @@ https://api.census.gov/data.html
 
 to get variable for datasets click on "variables"
 
-to get examples for of requests click on "examples"
+to get examples for requests click on "examples"
 
 get your key using the following website:
 
