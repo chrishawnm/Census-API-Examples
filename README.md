@@ -1,4 +1,4 @@
-# Census-Reported-Average-Income-
+# Census-API-Examples
 
 Providing a another look at how you can visualize data from the U.S. Census Bureau API. To start getting your hands on the data please look below.
 
